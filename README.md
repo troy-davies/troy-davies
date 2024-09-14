@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @troy-davies
-- 👀 I’m interested in self improvement
+- 👀 I’m interested in life
 - 🌱 I’m currently learning web page design
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me: my public email is 22daviest@protonmail.com
