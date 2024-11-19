@@ -1,23 +1,23 @@
 <h1 align="center">Hi, I'm Troy Davies</h1>
 <h3 align="center">I'm a novice coder, mainly focusing on ts.</h3>
 
-- 🔭 I’m currently working on [My website](https://troy-davies.github.io)
+- 🔭 I’m currently working on [My website](http://troy-davies.github.io)
 
 - 🌱 I’m currently learning **Typescript, javascript and C**
 
-- 👯 I’m looking to collaborate on [a chat client for microbit.](github.com/troy-davies/chat)
+- 👯 I’m looking to collaborate on [a chat client for microbit.](https://github.com/troy-davies/chat)
 
 - 🤝 I’m looking for help with **Website making**
 
-- 👨‍💻 All of my projects are available at [github.com/troy-davies](github.com/troy-davies)
+- 👨‍💻 All of my projects are available at [github.com/troy-davies](https://github.com/troy-davies)
 
-- 📝 I regularly write articles on [troyport.mooo.com](troyport.mooo.com)
+- 📝 I regularly write articles on [troyport.mooo.com](http://troyport.mooo.com)
 
 - 💬 Ask me about **Server side of websites.**
 
 - 📫 How to reach me **22daviest@protonmail.com**
 
-- 📄 Know about my experiences [troyport.mooo.com/helpful-info](troyport.mooo.com/helpful-info)
+- 📄 Know about my experiences [troyport.mooo.com/helpful-info](http://troyport.mooo.com/helpful-info)
 
 - ⚡ Fun fact **Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!**
 
