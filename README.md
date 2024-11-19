@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Troy Davies</h1>
+<h1 align="center">Hi, I'm Troy Davies</h1>
 <h3 align="center">I'm a novice coder, mainly focusing on ts.</h3>
 
 - 🔭 I’m currently working on [My website](https://troy-davies.github.io)
