@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Troy Davies</h1>
 <h3 align="center">I'm a novice coder, mainly focusing on ts.</h3>
 
-- 🔭 I’m currently working on [My website](troyport.mooo.com)
+- 🔭 I’m currently working on [My website](troy-davies.github.io)
 
 - 🌱 I’m currently learning **Typescript, javascript and C**
 
