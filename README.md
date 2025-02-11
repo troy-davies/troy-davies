@@ -1,29 +1,33 @@
-<h1 align="center">Hi, I'm Troy Davies</h1>
-<h3 align="center">I'm a novice coder, mainly focusing on ts.</h3>
+<h1 align="center">Hi 👋, I'm Troy</h1>
+<h3 align="center">I enjoy coding and linux.</h3>
 
-- 🔭 I’m currently working on [My website](http://troy-davies.github.io)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=troy-davies&label=Profile%20views&color=005b94&style=flat" alt="troy-davies" /> </p>
 
-- 🌱 I’m currently learning **Typescript, javascript and C**
+- 🔭 I’m currently working on [my website](http://troyport.mooo.com)
 
-- 👯 I’m looking to collaborate on [a chat client for microbit.](https://github.com/troy-davies/chat)
+- 🌱 I’m currently learning **assembly**
 
-- 🤝 I’m looking for help with **Website making**
+- 👯 I’m looking to collaborate on [a microbit chat client](chat)
 
-- 👨‍💻 All of my projects are available at [github.com/troy-davies](https://github.com/troy-davies)
+- 🤝 I’m looking for help with **anything**
 
-- 📝 I regularly write articles on [troyport.mooo.com](http://troyport.mooo.com)
+- 📝 I sometimes write articles on [http://troyport.mooo.com](http://troyport.mooo.com)
 
-- 💬 Ask me about **Server side of websites.**
+- 💬 Ask me about **init systems**
 
-- 📫 How to reach me **22daviest@protonmail.com**
+- 📫 How to reach me: **don't**
 
-- 📄 Know about my experiences [troyport.mooo.com/helpful-info](http://troyport.mooo.com/helpful-info)
+- 📄 Know about my experiences [http://troyport.mooo.com/helpful-info](http://troyport.mooo.com/helpful-info)
 
-- ⚡ Fun fact **Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!**
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/troy-davies"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="troy-davies" /></a></p><br><br>
 
 <!---
 troy-davies/troy-davies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
