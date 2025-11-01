@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my website](http://troyport.mooo.com)
 
-- 🌱 I’m currently learning **assembly**
+- 🌱 I’m currently learning **C and Rust**
 
 - 👯 I’m looking to collaborate on [a microbit chat client](chat)
 
