@@ -1,24 +1,11 @@
-<h1 align="center">Hi 👋, I'm Troy</h1>
+<h1 align="center">Hi , I'm Troy</h1>
 <h3 align="center">I enjoy coding and linux.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=troy-davies&label=Profile%20views&color=005b94&style=flat" alt="troy-davies" /> </p>
 
-- 🔭 I’m currently working on [my website](http://troyport.mooo.com)
+-  I’m currently working on [my website](http://troyport.mooo.com)
 
-- 🌱 I’m currently learning **C and Rust**
-
-- 👯 I’m looking to collaborate on [a microbit chat client](chat)
-
-- 🤝 I’m looking for help with **anything**
-
-- 📝 I sometimes write articles on [http://troyport.mooo.com](http://troyport.mooo.com)
-
-- 💬 Ask me about **init systems**
-
-- 📫 How to reach me: **don't**
-
-- 📄 Know about my experiences [http://troyport.mooo.com/helpful-info](http://troyport.mooo.com/helpful-info)
-
+-  I’m currently learning **C and Rust**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
