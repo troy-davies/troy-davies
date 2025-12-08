@@ -1,8 +1,8 @@
-- I am currently learning **C and Rust**
+- I am currently learning C and Rust
 
-- XMPP: **xmpp://troydavies@conversions.im**
+- XMPP: xmpp://troydavies@conversions.im
 
-- Website: **troyport.mooo.com**
+- Website: troyport.mooo.com
 
 
 <p align="left">
