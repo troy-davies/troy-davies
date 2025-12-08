@@ -1,4 +1,4 @@
-- I am currently learning C and Rust
+- I am currently learning C and Rust.
 
 - XMPP: xmpp://troydavies@conversions.im
 
