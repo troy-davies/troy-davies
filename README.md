@@ -1,10 +1,4 @@
-- I am currently learning C and Rust.
-
-- XMPP: xmpp://troydavies@conversions.im
-
-- Website: troyport.mooo.com
-
-
+I am currently learning C and Rust.
 <p align="left">
 </p>
 
