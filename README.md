@@ -6,6 +6,6 @@ I know the C programming language.
 
 I may look into learning some more rust.
 
-I have experience using Gnu/Linux and have been using it in some extent or fully since around late 2023.
+I have experience using Gnu/Linux and have been using it in some extent or fully since around mid 2024.
 
-I drink a hydrogen hydroxide every day.
+I drink hydrogen hydroxide every day.
